@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://aae.wisc.edu/">University of Wisconsin, Madison, Department of Agriculture & Applied Economics</a>.
+description: <a href="https://aae.wisc.edu/">University of Wisconsin, Madison, Department of Agriculture & Applied Economics</a>
 
 profile:
   align: right
@@ -12,8 +12,8 @@ profile:
     <p>427 Lorch St</p>
     <p>Madison, WI 53706</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
