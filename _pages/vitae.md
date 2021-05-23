@@ -78,7 +78,7 @@ table td:first-of-type {
 
 | **Statistical Analysis**  | Stata, Matlab, R
 | **Programming**           | Python, Julia, SQL
-| **Technology**            | LaTeX, Vim, Univ, AWS
+| **Technology**            | LaTeX, Vim, Unix, AWS
 | |
 
 ### Languages ###
