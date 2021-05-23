@@ -9,16 +9,19 @@ nav: true
 ### Personal Information ###
 
 | **Name**               | Mizuhiro Suzuki
-|                        |
+| **Research interests** | Development economics, Environmental economics, Climate change
 
 
 ### Education ###
 
-| Oct. 2010              | Dr. rer. nat. (Ph.D.) in Physics, Johannes Gutenberg University, Mainz, Germany
+| 2016-2022 (expected)   | **University of Wisconsin-Madison**, Madison, WI
+|                        | Ph.D. Program, Agricultural & Applied Economics
 |                        |
-| Nov. 2006              | Diploma (M.Sc.) in Physics, University of Leipzig, Germany
-|                        | Minors: Meteorology, Chemistry |
+| 2014-2016              | **Hitotsubashi University**, Tokyo, Japan
+|                        | Master of Economics, *Valedictorian in Master's program in 2016*
 |                        |
+| 2010-2014              | **Kyoto University**, Kyoto, Japan
+|                        | Bachlor of Science, Major: Agricultural Economcis
 |                        |
 
 
@@ -30,21 +33,13 @@ table td:first-of-type {
 }
 </style>
 
-| July 2018 - Present    | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
+| 2020                   | **Short-term consultant** for Maria Ruth Jones, World Bank
+|                        | [R Econ Visual Library](https://worldbank.github.io/r-econ-visual-library/) is the main product
+| 2019                   | **Short-term consultant** for Shinsaku Nomura, World Bank
+| 2017-2020            | **Research Assistant** to Jeremy Foltz and Thomas Rutherford, UW-Madison
+| 2016-2017            | **Research Assistant** to Jeremy Foltz and Thomas Rutherford, UW-Madison
 | Jan. 2017 - July 2018  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | May  2014 - July 2018  | Staff Scientist, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| Mar. 2013 - Apr. 2014  | Director's Postdoc. Fellow, Theoretical Division, Los Alamos National Lab
-| Nov. 2011 - Feb. 2013  | Postdoc. Research Assistant, Theoretical Division, Los Alamos National Lab
-| May  2012  - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA
-| Nov. 2010 - Oct. 2011  | Postdoc. Research Assistant, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
-| Jan. 2007 - Oct. 2010  | PhD Student, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
-| Jan. 2009 - July 2009  | Internship as Specialist for Application Performance & Deep Computing, IBM Systems & Technology Group
-| Oct. 2003 - Sep. 2006  | Student Assistant, Institute for Theoretical Physics, University of Leipzig
-| Aug. 2005 - Oct. 2005  | Visiting students program "Scientific Computing", Jülich Supercomputing Centre, Germany
-| Sep. 2004              | Student Assistant, Institute for Meteorology, University of Leipzig
-| Feb. 2003 - Apr. 2003  | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Halle, Germany
-| Mar. 2002              | Student Assistant, Institute for Theoretical Physics, University of Leipzig
 | |
 
 ### Awards ###
