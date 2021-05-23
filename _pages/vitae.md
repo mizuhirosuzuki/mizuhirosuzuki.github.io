@@ -10,6 +10,7 @@ nav: true
 
 | **Name**               | Mizuhiro Suzuki
 | **Research interests** | Development economics, Environmental economics, Climate change
+|                        |
 
 
 ### Education ###
@@ -50,7 +51,7 @@ table td:first-of-type {
 | 2019 | **Instructor** for Math camp for incoming AAE graduate students, UW-Madison
 | 2015 | **Teaching Assistant** for Undergraduate Macroeconomics, Hitotsubashi University
 | 2015 | **Teaching Assistant** for Undergraduate Microeconomics, Hitotsubashi University
-| |
+|      |
 
 ### Awards ###
 
@@ -71,8 +72,9 @@ table td:first-of-type {
 
 ### Conferences ###
 
-- **2019**: AAEA
-- **2021**: AERE
+| **2019** | AAEA
+| **2015** | AERE
+|          |
 
 ### Computer Skills ###
 
@@ -83,5 +85,6 @@ table td:first-of-type {
 
 ### Languages ###
 
-- Fluent English and Japanese
+- Fluent English
+- Native Japanese
 
