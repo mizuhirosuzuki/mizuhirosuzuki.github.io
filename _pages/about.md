@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>218 Taylor Hall number</p>
+    <p>218 Taylor Hall</p>
     <p>427 Lorch St</p>
     <p>Madison, WI 53706</p>
 
