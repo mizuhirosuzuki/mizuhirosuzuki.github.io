@@ -2,7 +2,7 @@
 layout: page
 permalink: /vitae/
 title: Curriculum Vitae
-description: Click here to download my CV
+description: Click [here](https://github.com/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
 nav: true
 ---
 
