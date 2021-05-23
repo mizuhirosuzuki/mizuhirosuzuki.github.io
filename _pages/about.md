@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://aae.wisc.edu/">University of Wisconsin, Madison, Department of Agriculture & Applied Economics</a>.
 
 profile:
   align: right
