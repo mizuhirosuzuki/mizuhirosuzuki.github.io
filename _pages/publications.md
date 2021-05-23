@@ -6,18 +6,7 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
 <div class="publications">
-
-<!---
-### Reviewed Papers ###
-
-{: reversed="reversed"}
-
-0. A. Diaw, K. Barros, J. Haack, **C. Junghans**, B. Keenan, Y. W. Li, D. Livescu, N. Lubbers, M. McKerns, R. S. Pavel, D. Rosenberger, I. Sagert, and T. C. Germann,<br>
-   *Multiscale simulation of plasma flows using active learning*,<br>
-   [Phys. Rev. E 102, 023310 (2020)](https://doi.org/10.1103/PhysRevE.102.023310) [[online](2020c.pdf)].
-   --->
 
 ### Work in progress ###
 
@@ -32,4 +21,3 @@ nav_order: 1
 0.  **Suzuki, Mizuhiro**,<br>
     *Ceremony expenditures in a developing country*, (2021). 
 
-</div>
