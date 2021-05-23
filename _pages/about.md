@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://aae.wisc.edu/">University of Wisconsin, Madison, Department of Agriculture & Applied Economics</a>
+description:
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. --->
 
-I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison.
+I am a Ph.D. candidate in [Agricultural & Applied Economics at the University of Wisconsin-Madison](https://aae.wisc.edu/).
 My interest lies in development economics, environmental economics, and applied econometrics.
 
 Click [here](vitae) to see my CV.
