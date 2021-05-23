@@ -9,9 +9,27 @@ nav: true
 
 <div class="publications">
 
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+<!---
+### Reviewed Papers ###
+
+{: reversed="reversed"}
+
+0. A. Diaw, K. Barros, J. Haack, **C. Junghans**, B. Keenan, Y. W. Li, D. Livescu, N. Lubbers, M. McKerns, R. S. Pavel, D. Rosenberger, I. Sagert, and T. C. Germann,<br>
+   *Multiscale simulation of plasma flows using active learning*,<br>
+   [Phys. Rev. E 102, 023310 (2020)](https://doi.org/10.1103/PhysRevE.102.023310) [[online](2020c.pdf)].
+   --->
+
+### Work in progress ###
+
+{: reversed="reversed"}
+
+0.  Melo, Ana Paula and **Suzuki, Mizuhiro**,<br>
+    *Temperature and the work of bureaucrats*, (2021). 
+
+0.  Melo, Ana Paula and **Suzuki, Mizuhiro**,<br>
+    *Temperature ,effort, and achievement: Evidence from a large-scale standardized exam in Brazil*, (2021). 
+
+0.  **Suzuki, Mizuhiro**,<br>
+    *Ceremony expenditures in a developing country*, (2021). 
 
 </div>
