@@ -10,14 +10,9 @@ nav_order: 1
 
 ### Work in progress ###
 
-{: reversed="reversed"}
+0.  Melo, Ana Paula and **Suzuki, Mizuhiro**, *Temperature and the work of bureaucrats*, (2021). 
 
-0.  Melo, Ana Paula and **Suzuki, Mizuhiro**,<br>
-    *Temperature and the work of bureaucrats*, (2021). 
+0.  Melo, Ana Paula and **Suzuki, Mizuhiro**, *Temperature ,effort, and achievement: Evidence from a large-scale standardized exam in Brazil*, (2021). 
 
-0.  Melo, Ana Paula and **Suzuki, Mizuhiro**,<br>
-    *Temperature ,effort, and achievement: Evidence from a large-scale standardized exam in Brazil*, (2021). 
-
-0.  **Suzuki, Mizuhiro**,<br>
-    *Ceremony expenditures in a developing country*, (2021). 
+0.  **Suzuki, Mizuhiro**, *Ceremony expenditures in a developing country*, (2021). 
 
