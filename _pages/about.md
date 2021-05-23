@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="https://aae.wisc.edu/">University of Wisconsin, Madison, Department of Agriculture & Applied Economics</a>
 
