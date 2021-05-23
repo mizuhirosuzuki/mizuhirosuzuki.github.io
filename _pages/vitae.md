@@ -36,28 +36,27 @@ table td:first-of-type {
 | 2020                   | **Short-term consultant** for Maria Ruth Jones, World Bank
 |                        | [R Econ Visual Library](https://worldbank.github.io/r-econ-visual-library/) is the main product
 | 2019                   | **Short-term consultant** for Shinsaku Nomura, World Bank
-| 2017-2020            | **Research Assistant** to Jeremy Foltz and Thomas Rutherford, UW-Madison
-| 2016-2017            | **Research Assistant** to Jeremy Foltz and Thomas Rutherford, UW-Madison
-| Jan. 2017 - July 2018  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| May  2014 - July 2018  | Staff Scientist, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
+|                        |
+| 2021-2022              | **Research Assistant** to Priya Mukherjee, UW-Madison
+| 2017-2020              | **Research Assistant** to Jeremy Foltz and Thomas Rutherford, UW-Madison
+| 2016-2017              | **Research Assistant** to Laura Schechter, UW-Madison
+| 2014-2016              | **Research Assistant** to Makoto Saito, Hitotsubashi University
+|                        |
+
+### Teaching Experience ###
+
+| 2021 | **Teaching Assistant** for AAE 350, *World Hunger and Malnutrition*, UW-Madison
+| 2019 | **Teaching Assistant** for AAE 635, *Applied Microeconomic Theory*, UW-Madison
+| 2019 | **Instructor** for Math camp for incoming AAE graduate students, UW-Madison
+| 2015 | **Teaching Assistant** for Undergraduate Macroeconomics, Hitotsubashi University
+| 2015 | **Teaching Assistant** for Undergraduate Microeconomics, Hitotsubashi University
 | |
 
 ### Awards ###
 
-| Nov. 2019 | Top 10% most cited PLOS ONE papers published in 2015
-| Sep. 2017 | LAAP Award in recognition of outstanding contributions to the ISTI Summer School Program
-| Feb. 2017 | Postdoc. Distinguished Mentor Award, LANL
-| July 2016 | LAAP Achievement Award in appreciation for active service on the WSST team
-| Jan. 2015 | Classified as outstanding researcher, USCIS
-| Jan. 2014 | Most cited article published in EPJE in the past 5 years
-| Mar. 2013 | Los Alamos National Laboratory Director's Post-Doctoral Fellowship
-| May  2012 | Member of the Kavli Institute for Theoretical Physics
-| June 2010 | Participant of 60th Lindau Nobel Laureate Meeting
-| Nov. 2006 | Diploma with honor (highest possible grade)
-| Nov. 2005 | Wolfgang Natonek award, University of Leipzig
-| Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
-| July 2000 | Book award of the German Physical Society (DPG) for high school graduates
-| |
+- **Scholarship by Heiwa Nakajima Foundation for Students Studying Abroad** (2016-2018)
+- **Research Fellowship for Young Scientists (DC1)**, Japan Society for the Promotion of Science  
+  (*declined upon studying abroad*)
 
 <!---
 ### Open Source Projects ###
@@ -72,23 +71,17 @@ table td:first-of-type {
 
 ### Conferences ###
 
-- Member of the Organization Committee for the [Salishan Conference on High Speed Computing](http://salishan.ahsc-nm.org/)
-- Chairman for the APS annual meetings
+- **2019**: AAEA
+- **2021**: AERE
 
 ### Computer Skills ###
 
-| **General**               | Linux, AIX, Mac OS, DOS, Windows
-| **Programming**           | C, C++, Fortran, MPI, OpenMP
-| **Scripting**             | Shell, awk, Perl, expect, PHP, tcl, Python
-| **Markup Languages**      | HTML, latex, mediawiki, txt2tags
+| **Statistical Analysis**  | Stata, Matlab, R
+| **Programming**           | Python, Julia, SQL
+| **Technology**            | LaTeX, Vim, Univ, AWS
 | |
 
-### Teaching Experience ###
+### Languages ###
 
-| Apr. 2008 - Sep. 2008 | Theoretical physics III, Johannes Gutenberg University of Mainz
-| Oct. 2007 - Mar. 2008 | Theoretical physics II, Johannes Gutenberg University of Mainz
-| Apr. 2007 - Sep. 2007 | Theoretical physics I, Johannes Gutenberg University of Mainz
-| Apr. 2006 - Sep. 2006 | Introduction to computer simulations I, University of Leipzig
-| Sep. 2004 - Oct. 2004 | Mathematical preparation course for first-year students, University of Leipzig
-| |
+- Fluent English and Japanese
 
