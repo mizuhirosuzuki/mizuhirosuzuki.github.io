@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison.
 My interest lies in development economics, environmental economics, and applied econometrics.
 
-Click [here](Vitae.md) to see my CV.
+Click [here](vitae) to see my CV.
 
 
 
