@@ -6,11 +6,9 @@ description: Click [here](https://github.com/mizuhirosuzuki/mizuhirosuzuki.githu
 nav: true
 ---
 
-### Personal Information ###
+### Research Interests ###
 
-| **Name**               | Mizuhiro Suzuki
-| **Research interests** | Development economics, Environmental economics, Climate change
-|                        |
+Development economics, Environmental economics, Climate change
 
 
 ### Education ###
