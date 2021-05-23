@@ -6,7 +6,7 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-## Personal Information ###
+### Personal Information ###
 
 | **Name**               | Mizuhiro Suzuki
 |                        |
