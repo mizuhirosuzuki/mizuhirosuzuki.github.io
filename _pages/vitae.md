@@ -24,6 +24,10 @@ Development economics, Environmental economics, Climate change
 |                        |
 
 
+### Research ###
+
+Click [here](publications) to see my research
+
 ### Work Experience ###
 
 <style>
