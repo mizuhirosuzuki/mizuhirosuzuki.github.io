@@ -20,7 +20,7 @@ Development economics, Environmental economics, Climate change
 |                        | Master of Economics, *Valedictorian in Master's program in 2016*
 |                        |
 | 2010-2014              | **Kyoto University**, Kyoto, Japan
-|                        | Bachlor of Science, Major: Agricultural Economcis
+|                        | Bachelor of Science, Major: Agricultural Economics
 |                        |
 
 
