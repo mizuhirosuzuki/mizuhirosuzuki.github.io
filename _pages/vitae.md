@@ -50,7 +50,7 @@ table td:first-of-type {
 
 | 2021 | **Teaching Assistant** for AAE 350, *World Hunger and Malnutrition*, UW-Madison
 | 2019 | **Teaching Assistant** for AAE 635, *Applied Microeconomic Theory*, UW-Madison
-| 2019 | **Instructor** for Math camp for incoming AAE graduate students, UW-Madison
+| 2019 | **Instructor** for math camp for incoming AAE graduate students, UW-Madison
 | 2015 | **Teaching Assistant** for Undergraduate Macroeconomics, Hitotsubashi University
 | 2015 | **Teaching Assistant** for Undergraduate Microeconomics, Hitotsubashi University
 |      |
