@@ -26,7 +26,7 @@ Development economics, Environmental economics, Climate change
 
 ### Research ###
 
-Click [here](publications) to see my research
+Click [here](/publications) to see my research
 
 ### Work Experience ###
 
@@ -69,7 +69,7 @@ table td:first-of-type {
 | [Gentoo](https://www.gentoo.org) | Advanced Linux distribution | Developer
 --->
 
-<!-- For more infomation see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans) -->
+<!-- For more information see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans) -->
 
 
 ### Conferences ###
