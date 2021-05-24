@@ -71,7 +71,7 @@ table td:first-of-type {
 ### Conferences ###
 
 | **2019** | AAEA
-| **2015** | AERE
+| **2021** | AERE
 |          |
 
 ### Computer Skills ###
