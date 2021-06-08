@@ -26,7 +26,15 @@ Development economics, Environmental economics, Climate change
 
 ### Research ###
 
-Click [here](/publications) to see my research
+<!-- Click [here](/publications) to see my research -->
+
+0. **Ceremony expenditures in a developing country**
+
+0. **Temperature and the work of bureaucrats**  
+with [Ana Paula Melo](https://sites.google.com/view/anamelo/)
+
+0. **Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil**  
+with [Ana Paula Melo](https://sites.google.com/view/anamelo/)
 
 ### Work Experience ###
 
@@ -36,14 +44,13 @@ table td:first-of-type {
 }
 </style>
 
-| 2020                   | **Short-term consultant** for Maria Ruth Jones, World Bank
+| 2021-2022              | **UW-Madison**, Research Assistant to Priya Mukherjee
+| 2020                   | **Word Bank**, Short-term consultant for Maria Ruth Jones
 |                        | [R Econ Visual Library](https://worldbank.github.io/r-econ-visual-library/) is the main product
-| 2019                   | **Short-term consultant** for Shinsaku Nomura, World Bank
-|                        |
-| 2021-2022              | **Research Assistant** to Priya Mukherjee, UW-Madison
-| 2017-2020              | **Research Assistant** to Jeremy Foltz and Thomas Rutherford, UW-Madison
-| 2016-2017              | **Research Assistant** to Laura Schechter, UW-Madison
-| 2014-2016              | **Research Assistant** to Makoto Saito, Hitotsubashi University
+| 2019                   | **World Bank**, Short-term consultant for Shinsaku Nomura
+| 2017-2020              | **UW-Madison**, Research Assistant to Jeremy Foltz and Thomas Rutherford
+| 2016-2017              | **UW-Madison**, Research Assistant to Laura Schechter
+| 2014-2016              | **Hitotsubashi University**, Research Assistant to Makoto Saito
 |                        |
 
 ### Teaching Experience ###
@@ -74,8 +81,8 @@ table td:first-of-type {
 
 ### Conferences ###
 
-| **2019** | AAEA
 | **2021** | AERE
+| **2019** | AAEA
 |          |
 
 ### Computer Skills ###
