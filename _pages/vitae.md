@@ -8,7 +8,7 @@ nav: true
 
 ### Research Interests ###
 
-Development economics, Environmental economics, Climate change
+Development economics, environmental economics, climate change, applied microeconometrics
 
 
 ### Education ###
@@ -31,7 +31,7 @@ Development economics, Environmental economics, Climate change
 0. **Ceremony expenditures in a developing country**
 
 0. **Temperature and the work of bureaucrats**  
-with [Ana Paula Melo](https://sites.google.com/view/anamelo/)
+with [Ana Paula Melo](https://sites.google.com/view/anamelo/) (*submitted*)
 
 0. **Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil**  
 with [Ana Paula Melo](https://sites.google.com/view/anamelo/)
@@ -64,9 +64,8 @@ table td:first-of-type {
 
 ### Awards ###
 
-- **Scholarship by Heiwa Nakajima Foundation for Students Studying Abroad** (2016-2018)
-- **Research Fellowship for Young Scientists (DC1)**, Japan Society for the Promotion of Science  
-  (*declined upon studying abroad*)
+- **Heiwa Nakajima Foundation**, scholarship for students studying abroad (2016 - 2018) \\
+- **Japan Society for the Promotion of Science**, research fellowship (DC1) (*Declined upon studying abroad*)
 
 <!---
 ### Open Source Projects ###
@@ -81,8 +80,8 @@ table td:first-of-type {
 
 ### Conferences ###
 
-| **2021** | AERE
-| **2019** | AAEA
+| **2021** | Annual summer conference (virtual) of Association of Environmental and Resource Economists (AERE) 
+| **2019** | Annual summer conference (at Atlanta) of Agricultural \& Applied Economics Association (AAEA)
 |          |
 
 ### Computer Skills ###
