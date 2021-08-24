@@ -64,7 +64,7 @@ table td:first-of-type {
 
 ### Awards ###
 
-- **Heiwa Nakajima Foundation**, scholarship for students studying abroad (2016 - 2018) \\
+- **Heiwa Nakajima Foundation**, scholarship for students studying abroad (2016 - 2018)
 - **Japan Society for the Promotion of Science**, research fellowship (DC1) (*Declined upon studying abroad*)
 
 <!---
@@ -81,7 +81,7 @@ table td:first-of-type {
 ### Conferences ###
 
 | **2021** | Annual summer conference (virtual) of Association of Environmental and Resource Economists (AERE) 
-| **2019** | Annual summer conference (at Atlanta) of Agricultural \& Applied Economics Association (AAEA)
+| **2019** | Annual summer conference (at Atlanta) of Agricultural & Applied Economics Association (AAEA)
 |          |
 
 ### Computer Skills ###
