@@ -15,7 +15,7 @@ nav_order: 1
 
 0. **[Temperature and the work of bureaucrats](http://anapmelo.github.io/files/manuscript_MM.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/) (*submitted*)
-> We evaluate the relationship between temperature shocks and the performance of bureacracy. We study a program in Brazil that randomly allocated audit teams to municipalities all over the country and we find a positive effect of temperature on reported levels of corruption.
+> A growing body of literature shows evidence that high temperatures negatively impact performance. Less studied is the impact on the work performance of government bureaucrats. Our paper estimates the impact of temperature on auditors’ work performance, measured by the likelihood with which auditors report corruption. We use data on hundreds of municipalities randomly audited in an anti-corruption program in Brazil. We find that auditors are more likely to report corruption if their fieldwork is conducted under higher temperatures. We discuss the potential mechanisms underlying our findings, which highlight important avenues for further research. Our results have implications for understanding the influence of external factors on essential government functions that impact social welfare.
 
 0. **Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil**  
 with [Ana Paula Melo](https://www.apmelo.com/)
