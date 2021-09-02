@@ -30,7 +30,7 @@ Development economics, environmental economics, climate change, applied microeco
 
 0. **Ceremony expenditures in a developing country**
 
-0. **Temperature and the work of bureaucrats**  
+0. **[Temperature and the work of bureaucrats](http://anapmelo.github.io/files/manuscript_MM.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/) (*under review*)
 
 0. **Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil**  
