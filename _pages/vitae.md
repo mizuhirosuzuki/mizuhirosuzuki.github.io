@@ -2,7 +2,7 @@
 layout: page
 permalink: /vitae/
 title: Curriculum Vitae
-description: Click [here](https://nbviewer.jupyter.org/github/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
+description: Click <a href="https://nbviewer.jupyter.org/github/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/pdf/MizuhiroSuzuki_CV.pdf">here</a> to download my CV
 nav: true
 ---
 
