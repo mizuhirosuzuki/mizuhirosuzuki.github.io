@@ -21,3 +21,7 @@ with [Ana Paula Melo](https://www.apmelo.com/) (*under review*)
 with [Ana Paula Melo](https://www.apmelo.com/)
 > We provide empirical evidence on how the exam stakes affect the sensitivity of performance to temperature. We explore the unique Brazilian context in which the stakes of a large-scale standardized exam change from relatively low to high. Using within-individual variations in exam scores and temperature across two exam days, we find a negative impact of high temperature on exam scores. The effects are non-linear, especially when the temperature increases to the high 30s. When we interact temperature with the proportion of universities in a locality using the national exam as the primary admission criteria, we find that the higher the stakes, the smaller the effects of temperature on exam performance.
 
+### Work in Progress ###
+
+0. **Winter weather on exam dates and matriculation for a prestigious university in Japan**  
+

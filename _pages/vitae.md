@@ -2,9 +2,10 @@
 layout: page
 permalink: /vitae/
 title: Curriculum Vitae
-description: Click <a href="https://nbviewer.jupyter.org/github/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/pdf/MizuhiroSuzuki_CV.pdf">here</a> to download my CV
 nav: true
 ---
+
+Click [here](https://nbviewer.jupyter.org/github/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
 
 ### Research Interests ###
 
@@ -24,17 +25,21 @@ Development economics, environmental economics, climate change, applied microeco
 |                        |
 
 
-### Research ###
+### Working papers ###
 
 <!-- Click [here](/publications) to see my research -->
 
-0. **Ceremony expenditures in a developing country**
+0. **Ceremony expenditures in a developing country** (*Job Market Paper*)
 
 0. **[Temperature and the work of bureaucrats](http://anapmelo.github.io/files/manuscript_MM.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/) (*under review*)
 
 0. **Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil**  
 with [Ana Paula Melo](https://www.apmelo.com/)
+
+### Work in Progress ###
+
+0. **Winter weather on exam dates and matriculation for a prestigious university in Japan**
 
 ### Work Experience ###
 
@@ -52,6 +57,7 @@ table td:first-of-type {
 | 2016-2017              | **UW-Madison**, Research Assistant to Laura Schechter
 | 2014-2016              | **Hitotsubashi University**, Research Assistant to Makoto Saito
 |                        |
+
 
 ### Teaching Experience ###
 
@@ -80,9 +86,9 @@ table td:first-of-type {
 
 ### Conferences ###
 
-| **2021** | Annual summer conference (virtual) of Association of Environmental and Resource Economists (AERE) 
-| **2019** | Annual summer conference (at Atlanta) of Agricultural & Applied Economics Association (AAEA)
-|          |
+| 2021 | Annual summer conference (virtual) of Association of Environmental and Resource Economists (AERE) 
+| 2019 | Annual summer conference (at Atlanta) of Agricultural & Applied Economics Association (AAEA)
+|      |
 
 ### Computer Skills ###
 
@@ -93,6 +99,6 @@ table td:first-of-type {
 
 ### Languages ###
 
-- Fluent English
-- Native Japanese
+- English: Fluent
+- Japanese: Native
 
