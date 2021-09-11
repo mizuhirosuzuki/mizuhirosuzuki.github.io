@@ -7,10 +7,6 @@ description:
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>218 Taylor Hall</p>
-    <p>427 Lorch St</p>
-    <p>Madison, WI 53706</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -25,7 +21,7 @@ I am a Ph.D. candidate in [Agricultural & Applied Economics at the University of
 My interest lies in development economics, environmental economics, and applied econometrics.
 I will be on the job market in the Fall of 2021, will attend the 2022 ASSA conference in Boston and plan to graduate in May 2022.
 
-Click [here](vitae) to see my CV.
+Click [here](vitae) to see my CV (or click [here](https://nbviewer.jupyter.org/github/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV).
 
 
 
