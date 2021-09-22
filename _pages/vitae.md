@@ -29,7 +29,7 @@ Development economics, environmental economics, climate change, applied microeco
 
 <!-- Click [here](/publications) to see my research -->
 
-0. **Expensive ceremonies and the lives of households in developing countries: Evidence from quinceañeras in Mexico** (*Job Market Paper*)
+0. **Affording expensive ceremonies: Evidence from quinceañeras in Mexico** (*Job Market Paper*)
 
 0. **[Temperature and the work of bureaucrats](http://anapmelo.github.io/files/manuscript_MM.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/) (*under review*)
