@@ -9,7 +9,7 @@ Click [here](https://nbviewer.jupyter.org/github/mizuhirosuzuki/mizuhirosuzuki.g
 
 ### Research Interests ###
 
-Development economics, environmental economics, climate change, applied microeconometrics
+Development economics, environmental economics, applied microeconometrics
 
 
 ### Education ###
