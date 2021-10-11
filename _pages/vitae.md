@@ -5,7 +5,7 @@ title: Curriculum Vitae
 nav: true
 ---
 
-Click [here](https://nbviewer.jupyter.org/github/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
+Click [here](assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
 
 ### Research Interests ###
 
@@ -86,8 +86,8 @@ table td:first-of-type {
 
 ### Conferences ###
 
-| 2021 | Annual summer conference (virtual) of Association of Environmental and Resource Economists (AERE) 
-| 2019 | Annual summer conference (at Atlanta) of Agricultural & Applied Economics Association (AAEA)
+| 2021 | Annual summer conference (virtual) of the Association of Environmental and Resource Economists (AERE) 
+| 2019 | Annual summer conference (at Atlanta) of the Agricultural & Applied Economics Association (AAEA)
 |      |
 
 ### Computer Skills ###
