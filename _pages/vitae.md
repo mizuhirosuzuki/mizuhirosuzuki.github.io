@@ -5,7 +5,7 @@ title: Curriculum Vitae
 nav: true
 ---
 
-Click [here](assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
+Click [here](../assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
 
 ### Research Interests ###
 
