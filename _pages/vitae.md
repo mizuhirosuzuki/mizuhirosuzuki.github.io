@@ -29,7 +29,7 @@ Development economics, environmental economics, applied microeconometrics
 
 <!-- Click [here](/publications) to see my research -->
 
-0. **]Affording expensive ceremonies: Evidence from quinceañeras in Mexico](assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)
+0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)
 
 0. **[Temperature and the work of bureaucrats](http://anapmelo.github.io/files/manuscript_MM.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/) (*under review*)
