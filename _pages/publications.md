@@ -8,7 +8,7 @@ nav: true
 
 ### Working papers ###
 
-0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)  
+0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)  
 > Despite their limited resources, low-income households in developing countries spend considerable resources on festivals and ceremonies. How do they afford such expensive events and how do the events affect their economic lives? I address these questions using a coming-of-age ceremony in Latin culture called a quinceañera. To overcome the endogeneity associated with the timings of ceremonies, I exploit a unique feature of quinceañeras that only households with a 15-year-old girl have the ceremony. With repeated cross-section data from Mexico, I show that households afford quinceañeras through savings, transfers from other households, and more labor supply of mothers. Furthermore, I find that quinceañeras increase the probability of households shutting down their non-agricultural businesses. My study provides insights into how households facing incomplete credit markets in developing countries manage large expenditures.
 
 0. **[Temperature and the work of bureaucrats](http://anapmelo.github.io/files/manuscript_MM.pdf)**  
