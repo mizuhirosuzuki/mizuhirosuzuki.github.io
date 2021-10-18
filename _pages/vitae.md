@@ -39,7 +39,7 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 
 ### Work in Progress ###
 
-0. **Winter weather on exam dates and matriculation for a prestigious university in Japan**
+0. **Winter weather on exam dates and matriculation into a prestigious university in Japan**
 
 ### Work Experience ###
 
