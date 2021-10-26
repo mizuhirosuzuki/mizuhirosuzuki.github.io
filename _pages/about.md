@@ -7,7 +7,7 @@ description: <a href="https://aae.wisc.edu/">University of Wisconsin, Madison, D
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: MizuhiroSuzuki_photo.jpeg
   address: 
 
 news: false  # includes a list of news items
