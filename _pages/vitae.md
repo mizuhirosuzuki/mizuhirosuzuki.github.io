@@ -70,6 +70,7 @@ table td:first-of-type {
 
 ### Awards ###
 
+- **Outstanding 2020-21 TA Award**, UW-Madison AAE (2021)
 - **Heiwa Nakajima Foundation**, scholarship for students studying abroad (2016 - 2018)
 - **Japan Society for the Promotion of Science**, research fellowship (DC1) (*Declined upon studying abroad*)
 
