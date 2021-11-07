@@ -31,10 +31,10 @@ Development economics, environmental economics, applied microeconometrics
 
 0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)
 
-0. **[Temperature and the work of bureaucrats](http://anapmelo.github.io/files/manuscript_MM.pdf)**  
+0. **[Temperature and the work of bureaucrats](../assets/pdf/audit_paper.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/) (*under review*)
 
-0. **Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil**  
+0. **[Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil](../assets/pdf/exam_brazil_paper.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/)
 
 ### Work in Progress ###
