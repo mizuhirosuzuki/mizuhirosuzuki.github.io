@@ -5,41 +5,24 @@ title: Curriculum Vitae
 nav: true
 ---
 
-Click [here](../assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV
+## Current position ##
 
-### Research Interests ###
-
-Development economics, environmental economics, applied microeconometrics
+| 2022- | **Capital One**, McLean, VA
+|       | Principal Associate - Quantitative Analyst
+|       |
 
 
 ### Education ###
 
-| 2016-2022 (expected)   | **University of Wisconsin-Madison**, Madison, WI
-|                        | Ph.D. Program, Agricultural & Applied Economics
-|                        |
-| 2014-2016              | **Hitotsubashi University**, Tokyo, Japan
-|                        | Master of Economics, *Valedictorian in Master's program in 2016*
-|                        |
-| 2010-2014              | **Kyoto University**, Kyoto, Japan
-|                        | Bachelor of Science, Major: Agricultural Economics
-|                        |
-
-
-### Working papers ###
-
-<!-- Click [here](/publications) to see my research -->
-
-0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)
-
-0. **[Temperature and the work of bureaucrats](../assets/pdf/audit_paper.pdf)**  
-with [Ana Paula Melo](https://www.apmelo.com/)
-
-0. **[Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil](../assets/pdf/exam_brazil_paper.pdf)**  
-with [Ana Paula Melo](https://www.apmelo.com/)
-
-### Work in Progress ###
-
-0. **Winter weather on exam dates and matriculation into a prestigious university in Japan**
+| 2016-2022 | **University of Wisconsin-Madison**, Madison, WI
+|           | Ph.D. Program, Agricultural & Applied Economics
+|           |
+| 2014-2016 | **Hitotsubashi University**, Tokyo, Japan
+|           | Master of Economics, *Valedictorian in Master's program in 2016*
+|           |
+| 2010-2014 | **Kyoto University**, Kyoto, Japan
+|           | Bachelor of Science, Major: Agricultural Economics
+|           |
 
 ### Work Experience ###
 
@@ -58,6 +41,38 @@ table td:first-of-type {
 | 2014-2016              | **Hitotsubashi University**, Research Assistant to Makoto Saito
 |                        |
 
+### Computer Skills ###
+
+| **Statistical Analysis**  | Stata, Matlab, R
+| **Programming**           | Python, Julia, SQL
+| **Technology**            | LaTeX, Vim, Unix, AWS
+| |
+
+### Languages ###
+
+- English: Fluent
+- Japanese: Native
+
+### Research Interests ###
+
+Development economics, applied microeconometrics
+
+### Working papers ###
+
+<!-- Click [here](/publications) to see my research -->
+
+0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)
+
+0. **[Temperature and the work of bureaucrats](../assets/pdf/audit_paper.pdf)**  
+with [Ana Paula Melo](https://www.apmelo.com/)
+
+0. **[Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil](../assets/pdf/exam_brazil_paper.pdf)**  
+with [Ana Paula Melo](https://www.apmelo.com/)
+
+### Work in Progress ###
+
+0. **Winter weather on exam dates and matriculation into a prestigious university in Japan**
+0. **Revisit a correlated random coefficient model in technology adoption**
 
 ### Teaching Experience ###
 
@@ -74,32 +89,10 @@ table td:first-of-type {
 - **Heiwa Nakajima Foundation**, scholarship for students studying abroad (2016 - 2018)
 - **Japan Society for the Promotion of Science**, research fellowship (DC1) (*Declined upon studying abroad*)
 
-<!---
-### Open Source Projects ###
-
-| [VOTCA](https://www.votca.org) | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
-| [FleCSI](http://www.flecsi.org) | Flexible Computer Science Infrastructure | Developer
-| [Gentoo](https://www.gentoo.org) | Advanced Linux distribution | Developer
---->
-
-<!-- For more information see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans) -->
-
-
 ### Conferences ###
 
+| 2022 | Midwest International Economic Development Conference, University of Georgia (graduate students development workshop), Hitotsubashi University (Economic Development Workshop)
 | 2021 | Annual summer conference (virtual) of the Association of Environmental and Resource Economists (AERE) 
 | 2019 | Annual summer conference (at Atlanta) of the Agricultural & Applied Economics Association (AAEA)
 |      |
-
-### Computer Skills ###
-
-| **Statistical Analysis**  | Stata, Matlab, R
-| **Programming**           | Python, Julia, SQL
-| **Technology**            | LaTeX, Vim, Unix, AWS
-| |
-
-### Languages ###
-
-- English: Fluent
-- Japanese: Native
 
