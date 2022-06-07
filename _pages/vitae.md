@@ -72,6 +72,7 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 ### Work in Progress ###
 
 0. **Winter weather on exam dates and matriculation into a prestigious university in Japan**
+
 0. **Revisit a correlated random coefficient model in technology adoption**
 
 ### Teaching Experience ###
