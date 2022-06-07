@@ -23,3 +23,5 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 
 0. **Winter weather on exam dates and matriculation for a prestigious university in Japan**  
 
+0. **Revisit a correlated random coefficient model in technology adoption**
+

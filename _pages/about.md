@@ -17,11 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. --->
 
-I am a Ph.D. candidate in [Agricultural & Applied Economics at the University of Wisconsin-Madison](https://aae.wisc.edu/).
-My interest lies in development economics, environmental economics, and applied econometrics.
-I will be on the job market in the Fall of 2021, will attend the 2022 ASSA conference in Boston and plan to graduate in May 2022.
+I am a Principal Associate - Quantitative Analyst at [Capital One](https://www.capitalone.com/) (2022/07-).
+I received a Ph.D. degree from [the department of Agricultural & Applied Economics at the University of Wisconsin-Madison](https://aae.wisc.edu/).
+My research interest lies in development economics and applied econometrics.
 
-Click [here](vitae) to see my CV (or click [here](assets/pdf/MizuhiroSuzuki_CV.pdf) to download my CV).
-
+Click [here](vitae) to see my CV.
 
 
