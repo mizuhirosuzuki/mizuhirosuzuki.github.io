@@ -2,7 +2,9 @@
 layout: page
 permalink: /vitae/
 title: Curriculum Vitae
+navtitle: Curriculum Vitae
 nav: true
+nav_order: 2
 ---
 
 ### Current position ###
@@ -92,7 +94,7 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 - **Heiwa Nakajima Foundation**, scholarship for students studying abroad (2016 - 2018)
 - **Japan Society for the Promotion of Science**, research fellowship (DC1) (*Declined upon studying abroad*)
 
-### Conferences ###
+### Presentations ###
 
 | 2023 | [Data Viz DC](https://www.datacommunitydc.org/data-visualization-dc) February Meetup
 | 2022 | Midwest International Economic Development Conference, University of Georgia (graduate students development workshop), Hitotsubashi University (Economic Development Workshop)

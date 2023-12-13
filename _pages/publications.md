@@ -2,14 +2,17 @@
 layout: page
 permalink: /publications/
 title: Research
+navtitle: Research
 description: 
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 ### Working papers ###
 
-0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)**
+0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)**  
+[\[World Bank blog article\]](https://blogs.worldbank.org/impactevaluations/fancy-ceremonies-developing-countries-how-are-they-funded-and-what-are-economic)
+
 
 0. **[Informal Contracts in an Incomplete Market: The Price of Milk in Paraguay](https://aae.wisc.edu/lschechter/Cheese.pdf)**  
 with [Laura Schechter](https://aae.wisc.edu/lschechter/) and [Guanming Shi](https://aae.wisc.edu/faculty/gshi/)
