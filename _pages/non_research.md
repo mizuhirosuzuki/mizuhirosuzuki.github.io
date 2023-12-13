@@ -37,5 +37,4 @@ nav_order: 4
 - **[GitHub repo for a ML competition, "Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery"](https://github.com/mizuhirosuzuki/RoofMaterial)**: This repository stores files used for a competition [Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery](https://www.drivendata.org/competitions/58/disaster-response-roof-type/), which resulted in 20th / 1425 competitors. In this competition, we are given images of each city in Colombia, Guatemala, and St. Lucia, coordinates of buildings, and for training buildings, their roof materials (cement, healthy metal, incomplete, irregular metal, or other). Using the information, we predict the roof materials of test buildings.
 
 - **[Curated list of resources](https://github.com/mizuhirosuzuki/resources)**: I created a curated list of resources for... anything, basically, from data, programming, economics, to [good sushi restaurants in Tokyo](https://twitter.com/tetteresearch/status/924344536565985281/photo/1).
-B
 
