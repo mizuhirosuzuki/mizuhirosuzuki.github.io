@@ -8,7 +8,7 @@ nav: true
 ### Current position ###
 
 | 2022- | **Capital One**, McLean, VA
-|       | Principal Associate, Quantitative Analyst
+|       | Principal Associate - Quantitative Analyst
 |       |
 
 ### Education ###
