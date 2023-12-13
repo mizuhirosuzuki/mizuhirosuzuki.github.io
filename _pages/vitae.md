@@ -8,9 +8,8 @@ nav: true
 ### Current position ###
 
 | 2022- | **Capital One**, McLean, VA
-|       | Principal Associate - Quantitative Analyst
+|       | Principal Associate, Quantitative Analyst
 |       |
-
 
 ### Education ###
 
@@ -34,7 +33,7 @@ table td:first-of-type {
 
 | 2021-2022              | **UW-Madison**, Research Assistant to Priya Mukherjee
 | 2020                   | **Word Bank**, Short-term consultant for Maria Ruth Jones
-|                        | [R Econ Visual Library](https://worldbank.github.io/r-econ-visual-library/) is the main product
+|                        | [R Econ Visual Library](https://worldbank.github.io/r-econ-visual-library/) and [Stata linter](https://github.com/worldbank/stata-linter) are the main products
 | 2019                   | **World Bank**, Short-term consultant for Shinsaku Nomura
 | 2017-2020              | **UW-Madison**, Research Assistant to Jeremy Foltz and Thomas Rutherford
 | 2016-2017              | **UW-Madison**, Research Assistant to Laura Schechter
@@ -63,10 +62,13 @@ Development economics, applied microeconometrics
 
 0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)
 
+0. **[Informal Contracts in an Incomplete Market: The Price of Milk in Paraguay](https://aae.wisc.edu/lschechter/Cheese.pdf)**
+with [Laura Schechter](https://aae.wisc.edu/lschechter/) and [Guanming Shi](https://aae.wisc.edu/faculty/gshi/)
+
 0. **[Temperature and the work of bureaucrats](../assets/pdf/audit_paper.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/)
 
-0. **[Temperature, effort, and achievement: Evidence from a large-scale standardized exam in Brazil](../assets/pdf/exam_brazil_paper.pdf)**  
+0. **[Temperature, effort, and achievement](http://anapmelo.github.io/files/manuscript_MM2.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/)
 
 ### Work in Progress ###
