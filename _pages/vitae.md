@@ -44,9 +44,9 @@ table td:first-of-type {
 
 ### Computer Skills ###
 
-| **Statistical Analysis**  | Stata, Matlab, R
-| **Programming**           | Python, Julia, SQL
-| **Technology**            | LaTeX, Vim, Unix, AWS
+| **Statistical Analysis**  | Stata, R, Matlab
+| **Programming**           | Python, Julia, SQL, C++
+| **Technology**            | LaTeX, Vim, Unix, AWS, Docker, Git
 | |
 
 ### Languages ###
@@ -87,6 +87,14 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 | 2015 | **Teaching Assistant** for Undergraduate Macroeconomics, Hitotsubashi University
 | 2015 | **Teaching Assistant** for Undergraduate Microeconomics, Hitotsubashi University
 |      |
+
+### Certificates ###
+
+- Coursera:
+    - [Object-Oriented Data Structures in C++](https://www.coursera.org/account/accomplishments/certificate/2ZXJ7DDJM6MZ)
+    - [Ordered Data Structures](https://www.coursera.org/account/accomplishments/certificate/DATELF6UN5T3)
+    - [Unordered Data Structures](https://www.coursera.org/account/accomplishments/certificate/2TE4L8GN4V9G)
+    - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DVGUNSDYLLUZ)
 
 ### Awards ###
 
