@@ -60,9 +60,9 @@ Development economics, applied microeconometrics
 
 <!-- Click [here](/publications) to see my research -->
 
-0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)** (*Job Market Paper*)
+0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)** 
 
-0. **[Informal Contracts in an Incomplete Market: The Price of Milk in Paraguay](https://aae.wisc.edu/lschechter/Cheese.pdf)**
+0. **[Informal Contracts in an Incomplete Market: The Price of Milk in Paraguay](https://aae.wisc.edu/lschechter/Cheese.pdf)**  
 with [Laura Schechter](https://aae.wisc.edu/lschechter/) and [Guanming Shi](https://aae.wisc.edu/faculty/gshi/)
 
 0. **[Temperature and the work of bureaucrats](../assets/pdf/audit_paper.pdf)**  
@@ -94,6 +94,7 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 
 ### Conferences ###
 
+| 2023 | [Data Viz DC](https://www.datacommunitydc.org/data-visualization-dc) February Meetup
 | 2022 | Midwest International Economic Development Conference, University of Georgia (graduate students development workshop), Hitotsubashi University (Economic Development Workshop)
 | 2021 | Annual summer conference (virtual) of the Association of Environmental and Resource Economists (AERE) 
 | 2019 | Annual summer conference (at Atlanta) of the Agricultural & Applied Economics Association (AAEA)
