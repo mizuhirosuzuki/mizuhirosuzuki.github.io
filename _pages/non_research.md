@@ -26,7 +26,7 @@ nav_order: 4
 
 - **[Derivations of equations in Foster and Rosenzweig (1995)](https://github.com/mizuhirosuzuki/EconPapers/blob/master/Foster_Rosenzweig_1995.ipynb)**: I show how to derive equations in [Foster and Rosenzweig (1995), "Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture"](https://www.jstor.org/stable/2138708)
 
-- **[Relational contract model with learning](https://github.com/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/jupyter/relational_contract.ipynb)**: Largely based on [Song and Ma (2021), "Relational Contracts in Well-Functioning Markets: Evidence from China's Vegetable Wholesale"](https://megan-song.github.io/publication/song-2021-rc/), I explain the relational contract model with learning.
+- **[Relational contract model with learning](https://github.com/mizuhirosuzuki/mizuhirosuzuki.github.io/blob/source/assets/jupyter/relational_contract.ipynb)**: Largely based on [Song and Ma (2021), "Relational Contracts in Well-Functioning Markets: Evidence from China's Vegetable Wholesale"](https://megan-song.github.io/publication/song-2021-rc/), I explain the relational contract model with learning
 
 - **[Review of MATLAB codes in Kaboski and Townsend (2011)](https://github.com/mizuhirosuzuki/EconPapers/blob/master/Kaboski_Townsend_2011.ipynb)**: I reviewed the MATLAB codes and summarized the structural estimation procedure in [Kaboski and Townsend (2011), "A Structural Evaluation of a Large-Scale Quasi-Experimental Microfinance Initiative"](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7079)
 
