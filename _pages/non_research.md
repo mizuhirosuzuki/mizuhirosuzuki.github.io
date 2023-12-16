@@ -22,6 +22,8 @@ nav_order: 4
 
 - **[Python numerical exercise on the dynamic model in Fafchanps (1993)](https://github.com/mizuhirosuzuki/EconPapers/blob/master/Fafchamps_1993.ipynb)**: I computationally solved the dynamic model in [Fafchamps (1993), "Sequential Labor Decisions Under Uncertainty: An Estimable Household Model of West-African Farmers"](https://www.jstor.org/stable/2951497?seq=1#metadata_info_tab_contents)
 
+- **[Estimation of risk-sharing model with limited commitment](https://mizuhirosuzuki.github.io/risk_sharing_lc_estimation/): I created a website showcasing the structural estimation procedure of a risk-sharing model with limited commitment (the codes are written with R)
+
 - **[Memos on Berry (1992)](https://github.com/mizuhirosuzuki/EconPapers/blob/master/Berry1992.ipynb)**: For deeper understandings on [Berry (1992), "Estimation of a Model of Entry in the Airline Industry"](https://www.jstor.org/stable/2951571?seq=1), I answered the following two questions in the document: (1) How complicated will it be to compute the distribution of equilibrium numbers of entrants? (2) How can we obtain the identities of entrants under the assumed decision order?
 
 - **[Derivations of equations in Foster and Rosenzweig (1995)](https://github.com/mizuhirosuzuki/EconPapers/blob/master/Foster_Rosenzweig_1995.ipynb)**: I show how to derive equations in [Foster and Rosenzweig (1995), "Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture"](https://www.jstor.org/stable/2138708)
