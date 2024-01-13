@@ -34,6 +34,8 @@ nav_order: 4
 
 - **[Julia linear programming formulation for two-sided matching](https://notes.quantecon.org/submission/64b8ad3fc1622a001a21e0ea)**: I solved the stable matching problem with the linear programming formulation
 
+- **[Julia implementation of a recursive algorithm for kidney exchanges](https://notes.quantecon.org/submission/659cb11d3b951e001512d56c)**: I implemented a recursive algorithm to solve an optimization problem for kidney exchanges.
+
 - **[Julia implementation of the stochastic optimal growth model with the collocation method + Gaussian quadrature approximation](https://notes.quantecon.org/submission/64598c57836c9a001a82ed2f)**: I implemented the collocation method for functional approximation and Gaussian quadrature method for the approximation of expectation
 
 - **[Memos on Berry (1992)](https://github.com/mizuhirosuzuki/EconPapers/blob/master/Berry1992.ipynb)**: For deeper understandings on [Berry (1992), "Estimation of a Model of Entry in the Airline Industry"](https://www.jstor.org/stable/2951571?seq=1), I answered the following two questions in the document: (1) How complicated will it be to compute the distribution of equilibrium numbers of entrants? (2) How can we obtain the identities of entrants under the assumed decision order?
