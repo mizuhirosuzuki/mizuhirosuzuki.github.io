@@ -23,9 +23,10 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 0. **[Temperature and the work of bureaucrats](../assets/pdf/audit_paper.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/)
 
-### Work in Progress ###
+0. **[Winter weather on exam dates and matriculation for a prestigious university in Japan](../assets/pdf/todai_center.pdf)**  
+[\[GitHub repo for replication\]](https://github.com/mizuhirosuzuki/todai_center)
 
-0. **Winter weather on exam dates and matriculation for a prestigious university in Japan**  
+### Work in Progress ###
 
 0. **Revisit a correlated random coefficient model in technology adoption**
 
