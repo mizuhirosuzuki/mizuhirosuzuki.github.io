@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. --->
 
-I am a Principal Associate - Quantitative Analyst at [Capital One](https://www.capitalone.com/) (2022/07-).
+I am a Manager - Quantitative Analyst at [Capital One](https://www.capitalone.com/).
 I received a Ph.D. degree from [the department of Agricultural & Applied Economics at the University of Wisconsin-Madison](https://aae.wisc.edu/).
 My research interest lies in development economics and applied econometrics.
 

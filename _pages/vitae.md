@@ -9,9 +9,11 @@ nav_order: 2
 
 ### Current position ###
 
-| 2022- | **Capital One**, McLean, VA
-|       | Principal Associate - Quantitative Analyst
-|       |
+| 2024-    | **Capital One**, McLean, VA
+|          | Manager - Quantitative Analyst
+| 2022-2024| **Capital One**, McLean, VA
+|          | Principal Associate - Quantitative Analyst
+|          |
 
 ### Education ###
 
@@ -58,6 +60,11 @@ table td:first-of-type {
 
 Development economics, applied microeconometrics
 
+### Publications ###
+
+0. **[Winter weather on exam dates and matriculation for a prestigious university in Japan](https://www.sciencedirect.com/science/article/abs/pii/S0165176524001149)**,
+Economics Letters 237 (2024): 111631
+
 ### Working papers ###
 
 <!-- Click [here](/publications) to see my research -->
@@ -73,11 +80,7 @@ with [Ana Paula Melo](https://www.apmelo.com/)
 0. **[Temperature, effort, and achievement](http://anapmelo.github.io/files/manuscript_MM2.pdf)**  
 with [Ana Paula Melo](https://www.apmelo.com/)
 
-### Work in Progress ###
-
-0. **Winter weather on exam dates and matriculation into a prestigious university in Japan**
-
-0. **Revisit a correlated random coefficient model in technology adoption**
+0. **[Revisit a correlated random coefficient model in technology adoption](../assets/pdf/revisit_crc.pdf)**
 
 ### Teaching Experience ###
 
