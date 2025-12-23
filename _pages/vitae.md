@@ -65,12 +65,12 @@ Development economics, applied microeconometrics
 0. **[Winter weather on exam dates and matriculation for a prestigious university in Japan](https://www.sciencedirect.com/science/article/abs/pii/S0165176524001149)**,
 *Economics Letters 237 (2024): 111631*
 
-0. **[Informal Contracts in an Incomplete Market: The Price of Milk in Paraguay](https://aae.wisc.edu/lschechter/Cheese.pdf)**  
+0. **[Informal Contracts in an Incomplete Market: The Price of Milk in Paraguay](https://www.journals.uchicago.edu/doi/10.1086/734544)**  
 with [Laura Schechter](https://aae.wisc.edu/lschechter/) and [Guanming Shi](https://aae.wisc.edu/faculty/gshi/), 
-Forthcoming *Economic Development and Cultural Change*
+*Economic Development and Cultural Change 74.1 (2025): 1-36*
 
-0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](../assets/pdf/quinceaneras_paper.pdf)**,
-Forthcoming *Journal of Development Economics*
+0. **[Affording expensive ceremonies: Evidence from quinceañeras in Mexico](https://www.sciencedirect.com/science/article/abs/pii/S0304387824001974)**,
+*Journal of Development Economics 174 (2025): 103448*
 [\[World Bank blog article\]](https://blogs.worldbank.org/impactevaluations/fancy-ceremonies-developing-countries-how-are-they-funded-and-what-are-economic)
 
 ### Working papers ###
